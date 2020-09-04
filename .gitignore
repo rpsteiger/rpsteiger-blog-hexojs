@@ -1,7 +1,0 @@
-# NodeJS specific #
-node_modules/
-package-lock.json
-
-# macOS specific
-.DS-Store
-.nosync

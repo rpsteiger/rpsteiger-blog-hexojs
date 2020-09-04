@@ -1,19 +1,25 @@
 {
-  "name": "rpsteiger-hexo-blog",
-  "version": "1.0.0",
-  "description": "A blog by Ryan P. Steiger using hexojs'",
-  "main": "index.js",
+  "name": "hexo-site",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rpsteiger/rpsteiger-blog-hexojs.git"
+  "hexo": {
+    "version": "5.1.1"
   },
-  "author": "Ryan P. Steiger",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rpsteiger/rpsteiger-blog-hexojs/issues"
-  },
-  "homepage": "https://github.com/rpsteiger/rpsteiger-blog-hexojs#readme"
+  "dependencies": {
+    "hexo": "^5.0.0",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-index": "^2.0.0",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-renderer-ejs": "^1.0.0",
+    "hexo-renderer-marked": "^3.0.0",
+    "hexo-renderer-stylus": "^2.0.0",
+    "hexo-server": "^2.0.0"
+  }
 }
