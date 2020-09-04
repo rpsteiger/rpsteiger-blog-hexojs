@@ -1,0 +1,19 @@
+{
+  "name": "rpsteiger-hexo-blog",
+  "version": "1.0.0",
+  "description": "A blog by Ryan P. Steiger using hexojs'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpsteiger/rpsteiger-blog-hexojs.git"
+  },
+  "author": "Ryan P. Steiger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpsteiger/rpsteiger-blog-hexojs/issues"
+  },
+  "homepage": "https://github.com/rpsteiger/rpsteiger-blog-hexojs#readme"
+}
