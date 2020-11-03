@@ -1,13 +1,10 @@
 ---
-title: Thoughts on AI: part two
-date: 2020-11-03 20:00:00
+title: Part 2––thoughts on AI
+date: 2020-11-03 20:08:39
 tags:
 ---
-
-## Thoughts on AI: part two
-
 It is now the 8th week of my second to last semester at zhaw for my bachelor degree in computer science. My professor gave me the assignment to write about my thinking on AI technology: especially how it (my thinking) has evolved since taking the course.  
-As a baseline, I was given the article "[The Seven Deadly Sins of AI Predictions](https://www.technologyreview.com/2017/10/06/241837/the-seven-deadly-sins-of- ai-predictions/)" by Rodney Brooks; which I found to be eloquently written as well as inspiring.
+As a baseline, I was given the article [The Seven Deadly Sins of AI Predictions](https://www.technologyreview.com/2017/10/06/241837/the-seven-deadly-sins-of-ai-predictions/) by Rodney Brooks; which I found to be eloquently written as well as inspiring.
 
 Writing this piece is difficult because there is only so little that I understand about the AI field, even after taking a course on the subject for more than 8 weeks!  
 I have tried to read in the book "Artificial Intelligence - a modern approach"--we call it the AIAMA book in shorthand-- as much as possible, but only to managed as far as the second chapter so far. Recently I learned that Stuart Russel, while being a professor of computer science, also functions as an adjunct Professor of Neurological Surgery--this somewhat explains the precision in his writings on AI and neuroscience where he seems equally fluent in both!
